@@ -1,2 +1,2 @@
-# postgres-s3cmd
+# mongo-s3cmd
 Docker image with mongo and s3cmd
